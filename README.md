@@ -7,3 +7,5 @@ I'm new here on GitHub. Just learning how to take full advantage of GitHub to ma
 Also, I'd like to make here host my casual projects I'm goint to write for iOS.
 
 Last but not least, hope I can get my doctoral diploma as expected in the summer of 2019!
+
+This is a second edit!
