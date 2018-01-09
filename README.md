@@ -14,3 +14,5 @@ This is a second edit!
 Here's the content just before I creat a new pull request.
 
 This is the content after I created a new pull request.
+
+This is the third line after one comment is made following two commits.
